@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Current: [Dynamo Technologies](https://dynamo.works/) \
+Previous: [Flickrbox](https://www.flickerbox.com/), [TSheets](https://investors.intuit.com/news-events/press-releases/detail/347/intuit-to-acquire-tsheets-its-about-time), [Clearwater Analytics](https://clearwateranalytics.com/), [Refresh](https://github.com/asdfdotdev/Helios-Calendar) \
+Around the web: [Drupal](https://www.drupal.org/u/chrislarrycarl), [WordPress](https://profiles.wordpress.org/chrislarrycarl/), [LinkedIn](https://www.linkedin.com/in/chriscarlevato), [Mastodon](https://mastodon.social/@asdf_)
+
 <!--
 **chrislarrycarl/chrislarrycarl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
